@@ -1,0 +1,11 @@
+etherscan_token = ''
+
+[bot]
+token = ''
+
+[database]
+host = ''
+port = ''
+username = ''
+password = ''
+database = ''

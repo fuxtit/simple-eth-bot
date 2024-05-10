@@ -1,0 +1,6 @@
+fluentogram~=1.1.6
+dynaconf~=3.2.5
+aiogram
+aiohttp~=3.9.5
+SQLAlchemy~=2.0.30
+aiogram-dialog~=2.1.0
